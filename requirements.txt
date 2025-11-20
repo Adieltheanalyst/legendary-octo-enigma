@@ -3,3 +3,5 @@ pydub
 spaCy
 transformers
 SpeechRecognition
+dotenv
+langchain_groq
