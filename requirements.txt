@@ -1,1 +1,5 @@
 langchain
+pydub
+spaCy
+transformers
+SpeechRecognition
